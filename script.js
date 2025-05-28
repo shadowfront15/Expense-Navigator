@@ -1,14 +1,4 @@
 // Firebase Configuration - Replace with your actual config
-const firebaseConfig = {
-    apiKey: "AIzaSyAcSCdRmOlcBb3P1iCAOma22aOgMd6lFn0",
-    authDomain: "expense-tracker-33ae2.firebaseapp.com",
-    databaseURL: "https://expense-tracker-33ae2-default-rtdb.firebaseio.com/",
-    projectId: "expense-tracker-33ae2",
-    storageBucket: "expense-tracker-33ae2.firebasestorage.app",
-    messagingSenderId: "286382134250",
-    appId: "1:286382134250:web:0cddca7d4353b233c49893",
-    measurementId: "G-9LVCR7B26G"
-};
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
